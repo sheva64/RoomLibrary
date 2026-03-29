@@ -33,4 +33,4 @@
 
 *Скріншот працюючого додатку:*<br>
 
-![App Screenshot](images/screenshot.png)# RoomLibrary App
+![App Screenshot](images/screenshot.png)
